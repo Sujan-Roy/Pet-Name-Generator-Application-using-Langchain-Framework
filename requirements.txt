@@ -1,4 +1,4 @@
-jupyterlab
+Vs Code
 python-dotenv
 langchain
 openai
